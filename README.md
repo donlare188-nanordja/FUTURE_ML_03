@@ -10,8 +10,6 @@ This project is an **end-to-end Machine Learning system** designed to automate t
 
 👉 The goal is to **help recruiters save time, reduce costs, and make smarter hiring decisions**.
 
-
-
 ## 🧩 Key Features
 
 ✔ Resume classification using Machine Learning
@@ -26,8 +24,6 @@ This project is an **end-to-end Machine Learning system** designed to automate t
 ✔ Exploratory Data Analysis (EDA) with visual insights
 ✔ NLP analysis (WordCloud, top keywords per category)
 
-
-
 ## 🧠 Tech Stack
 
 * Python 🐍
@@ -36,8 +32,6 @@ This project is an **end-to-end Machine Learning system** designed to automate t
 * Matplotlib / Seaborn
 * NLP (TF-IDF)
 * Power BI (for visualization)
-
-
 
 ## 📊 Project Workflow
 
@@ -50,8 +44,6 @@ This project is an **end-to-end Machine Learning system** designed to automate t
 7. Job matching (cosine similarity)
 8. Smart ranking system
 
-
-
 ## 🏆 Smart Ranking Formula
 
 The final candidate score is computed as:
@@ -63,8 +55,6 @@ Score =
 * 0.1 × Category Match Bonus
 
 👉 This makes the system more **intelligent and business-oriented**.
-
-
 
 ## 📂 Project Structure
 
@@ -105,8 +95,6 @@ resume-screening/
 * ☁️ WordCloud per job category
 * 🏆 Candidate ranking (Top matches)
 
-
-
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
@@ -132,11 +120,7 @@ python src/train.py
 
 ### 4. Predict
 
-
 python src/predict.py
-
-
-
 
 ## 📌 Important Note
 
@@ -147,16 +131,12 @@ python src/predict.py
 
 👉 The **full production version (with advanced models and extended dataset)** is private.
 
-
-
 ## 🚀 Future Improvements
 
 * 🔥 Deep Learning models (BERT, Transformers)
 * 🌐 Web application (Streamlit / FastAPI)
 * 📊 Advanced dashboards (Power BI)
 * 🤖 Automated candidate recommendation system
-
-
 
 ## 💼 Business Value
 
@@ -167,16 +147,12 @@ This system can:
 * 🎯 Improve candidate-job matching
 * 📊 Assist HR decision-making
 
-
-
 ## 🤝 Let's Connect
 
 If you're interested in this project or collaboration:
 
 * 💼 LinkedIn: linkedin.com/in/donné-lare-4491693b1
 * 📧 Email: don188@gmail.com
-
-
 
 ## ⭐ If you like this project
 
