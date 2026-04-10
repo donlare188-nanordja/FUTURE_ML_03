@@ -1,9 +1,9 @@
 # Data
-data/raw/
-data/processed/
+#data/raw/
+#data/processed/
 
 # Models
-models/
+#models/
 
 # Python
 __pycache__/
